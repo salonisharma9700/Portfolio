@@ -13,6 +13,6 @@ const typed = new Typed('.multiple-text',{
     strings:['Full Stack Developer','Software Developer','Data Scientist'],
     typeSpeed: 100,
     backSpeed: 100,
-    backDelay: 1000,
+    backDelay: 100,
     loop:true
 });
